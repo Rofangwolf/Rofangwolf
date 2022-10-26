@@ -1,4 +1,5 @@
-# Ingeniero Civil Electrónico PUCV y Full Stack Web Developer de SoyHenry. 
+# Saludos, soy Rodrigo Fuentes
+## Ingeniero Civil Electrónico PUCV y Full Stack Web Developer de SoyHenry. 
 Con experiencia en minería, docencia y trabajando de forma personal en proyectos de desarrollo de 
 tecnología, teniendo particular interés en seguir expandiendo mis conocimientos sobre
 programación, Internet of Things y Cloud Computing.
@@ -21,3 +22,8 @@ programación, Internet of Things y Cloud Computing.
 <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="GitHub" width="80" height="80"/> 
 <a href="https://www.postman.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="GitHub" width="80" height="80"/> 
 <a href="https://www.heidisql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="GitHub" width="80" height="80"/> 
+
+
+## Contacto:
+- Email: r.h.fuentes.rodriguez@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/rodrigo-fuentes-rodr%C3%ADguez-7043aa19a/
