@@ -19,3 +19,5 @@ programación, Internet of Things y Cloud Computing.
 <a href="https://sequelize.org/" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="GitHub" width="80" height="80"/>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="GitHub" width="80" height="80"/> 
 <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="GitHub" width="80" height="80"/> 
+<a href="https://www.postman.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="GitHub" width="80" height="80"/> 
+<a href="https://www.heidisql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="GitHub" width="80" height="80"/> 
