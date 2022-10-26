@@ -1,11 +1,11 @@
-# Saludos, soy Rodrigo Fuentes
-## Ingeniero Civil Electrónico PUCV y Full Stack Web Developer de SoyHenry. 
+# Rodrigo Fuentes Rodríguez
+# Ingeniero Civil Electrónico PUCV y Full Stack Web Developer de SoyHenry. 
 Con experiencia en minería, docencia y trabajando de forma personal en proyectos de desarrollo de 
 tecnología, teniendo particular interés en seguir expandiendo mis conocimientos sobre
 programación, Internet of Things y Cloud Computing.
 
 
-## Conocimientos Técnicos
+## Conocimientos Técnicos:
 
 
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="80" height="80"/> 
