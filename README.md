@@ -1,8 +1,6 @@
 # Rodrigo Fuentes Rodríguez
 ## Ingeniero Civil Electrónico PUCV y Full Stack Web Developer de SoyHenry. 
-Con experiencia en minería, docencia y trabajando de forma personal en proyectos de desarrollo de 
-tecnología, teniendo particular interés en seguir expandiendo mis conocimientos sobre
-programación, Internet of Things y Cloud Computing.
+Ingeniero Civil Electrónico titulado de la Pontificia Universidad Católica de Valparaíso y del bootcamp de programación Soy Henry. Mi principal interes es seguir aumentando mis conocimientos sobre todo en lo que tenga que ver con programación, Internet of Things y Cloud Computing.
 
 
 ## Conocimientos Técnicos:
