@@ -5,7 +5,7 @@ Ingeniero Civil Electrónico titulado de la Pontificia Universidad Católica de 
 
 ## Conocimientos Técnicos:
 
-###Lenguajes de Programación:
+-Lenguajes de Programación:
 
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="80" height="80"/> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://img-0.journaldunet.com/j9wRRfOSv-4vFQx7XLJgfUz7j1k=/1500x/smart/11531bff1ef542b9b7d18e4ab9d5c0bc/ccmcms-jdn/37548786.jpg" alt="Python" width="80" height="80"/> 
