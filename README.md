@@ -33,3 +33,4 @@ Ingeniero Civil Electrónico titulado de la Pontificia Universidad Católica de 
 ## Contacto:
 - Email: r.h.fuentes.rodriguez@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/rodrigo-fuentes-rodr%C3%ADguez-7043aa19a/
+- Portafolio: https://rodrigo-fuentes.vercel.app/ 
