@@ -14,6 +14,8 @@ Ingeniero Civil Electrónico titulado de la Pontificia Universidad Católica de 
 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/> 
 <a href="https://img.icons8.com/color/480/redux.png" target="_blank"> <img src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png" alt="Redux" width="80" height="80"/> 
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="Vue" width="80" height="80"/> 
+<a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://styles.redditmedia.com/t5_3nu8v/styles/communityIcon_ueewexj8rzu91.png" alt="Vuetify" width="80" height="80"/> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.drupal.org/files/project-images/screenshot_361.png" alt="react" width="80" height="80"/> 
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="Node JS" width="80" height="80"/> 
 <a href="https://github.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="80" height="80"/> 
