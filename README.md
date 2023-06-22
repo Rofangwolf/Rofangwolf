@@ -26,7 +26,7 @@ Ingeniero Civil Electrónico titulado de la Pontificia Universidad Católica de 
 <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="Amazon Web Services" width="80" height="80"/> 
   
 - Programas:   
-<a href="https://www.postman.com/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="GitHub" width="80" height="80"/> 
+<a href="https://www.postman.com/" target="_blank"> <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" alt="GitHub" width="80" height="80"/> 
 <a href="https://www.heidisql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="GitHub" width="80" height="80"/> 
 <a href="https://visualstudio.microsoft.com/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="80" height="80"/> 
 <a href="https://trello.com/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/trello-512.png" alt="Trello" width="80" height="80"/> 
